@@ -1,4 +1,4 @@
-class utils:
+class Utils:
     def reversed(self,num):
         assert(isinstance(num, int))
         return int(str(num)[::-1])
