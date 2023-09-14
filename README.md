@@ -20,6 +20,8 @@
 
 ![image](https://github.com/Ismail-Ben/ECE444-F2023-Assignment1/assets/48138437/333f06bd-15e6-48a4-98f7-626868de9839)
 
+![image](https://github.com/Ismail-Ben/ECE444-F2023-Assignment1/assets/48138437/4350c249-35ae-412c-b69a-e595724496b6)
+
 ![image](https://github.com/Ismail-Ben/ECE444-F2023-Assignment1/assets/48138437/a5fdb8aa-0fff-41b2-a136-ec0e97c395de)
 
-![image](https://github.com/Ismail-Ben/ECE444-F2023-Assignment1/assets/48138437/4350c249-35ae-412c-b69a-e595724496b6)
+
